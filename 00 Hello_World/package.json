@@ -1,0 +1,10 @@
+﻿{
+	"name"		: "project-name",
+	"version"		: "1.0.0",
+	"description"	: "",
+	"keywords"	: [],
+	"license"		: "Proprietary",
+	"creator"		: "Unknown",
+	"main"		: "index.js",
+	"scripts"		: {"start": "node index.js"}
+}
